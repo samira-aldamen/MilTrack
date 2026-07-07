@@ -5,8 +5,8 @@
 > **Instructor:** Dr. Abdullah Alamaren  
 > **University:** Jordan University of Science and Technology
 
-| Name | ID |
-|---|---|
+| Name |
+|---|
 | Wajd Almadi|
 | Samira Aldamen |
 | Batool Mahashi |
